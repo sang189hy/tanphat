@@ -159,61 +159,60 @@ https://live.fptplay53.net/live/media/quocphongvn/live-hls-avc/quocphongvn-avc1_
 #EXTINF:-1 tvg-id="vietnamtoday" group-title="Truyền Hình" tvg-logo="https://vnepg.site/logos/176.png",VietNam Today
 https://live.fptplay53.net/fnxhd1/vntoday_vhls.smil/chunklist.m3u8
 
-#EXTINF:-1 group-title="Truyền Hình" tvg-logo="https://vtvgo-assets.vtvdigital.vn/assets/images/v2/channel/20260412/2026041216/qDk4Xm7IB6-SCTV1-THUMBNAIL-KENHVTVgo-500x281.webp",SCTV1 HD
+#EXTINF:-1 group-title="SCTV" tvg-logo="https://vtvgo-assets.vtvdigital.vn/assets/images/v2/channel/20260412/2026041216/qDk4Xm7IB6-SCTV1-THUMBNAIL-KENHVTVgo-500x281.webp",SCTV1 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 10.0) AppleWebKit/537.36 (KHTML, like Gecko) 130.0.6723.116/10.0 TV Safari/537.36
 https://hoiquan.dpdns.org/VTVGo/?sctv1
-#EXTINF:-1 group-title="Truyền Hình" tvg-logo="https://vtvgo-assets.vtvdigital.vn/assets/images/v2/channel/20260412/2026041216/YfESsxeqwt-SCTV2-THUMBNAIL-KENHVTVgo-500x281.webp",SCTV2 HD
+#EXTINF:-1 group-title="SCTV" tvg-logo="https://vtvgo-assets.vtvdigital.vn/assets/images/v2/channel/20260412/2026041216/YfESsxeqwt-SCTV2-THUMBNAIL-KENHVTVgo-500x281.webp",SCTV2 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 10.0) AppleWebKit/537.36 (KHTML, like Gecko) 130.0.6723.116/10.0 TV Safari/537.36
 https://liveh12.vtvprime.vn/hls/SCTV2/index.m3u8
-#EXTINF:-1 group-title="Truyền Hình" tvg-logo="https://vtvgo-assets.vtvdigital.vn/assets/images/v2/channel/20260412/2026041216/GzN0JnFdpo-SCTV3-THUMBNAIL-KENHVTVgo-500x281.webp",SCTV3 HD
+#EXTINF:-1 group-title="SCTV" tvg-logo="https://vtvgo-assets.vtvdigital.vn/assets/images/v2/channel/20260412/2026041216/GzN0JnFdpo-SCTV3-THUMBNAIL-KENHVTVgo-500x281.webp",SCTV3 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 10.0) AppleWebKit/537.36 (KHTML, like Gecko) 130.0.6723.116/10.0 TV Safari/537.36
 https://hoiquan.dpdns.org/VTVGo/?sctv3
-#EXTINF:-1 group-title="Truyền Hình" tvg-logo="https://vtvgo-assets.vtvdigital.vn/assets/images/v2/channel/20260412/2026041216/lWt7cO0Lot-SCTV4-THUMBNAIL-KENHVTVgo-500x281.webp",SCTV4 HD
+#EXTINF:-1 group-title="SCTV" tvg-logo="https://vtvgo-assets.vtvdigital.vn/assets/images/v2/channel/20260412/2026041216/lWt7cO0Lot-SCTV4-THUMBNAIL-KENHVTVgo-500x281.webp",SCTV4 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 10.0) AppleWebKit/537.36 (KHTML, like Gecko) 130.0.6723.116/10.0 TV Safari/537.36
 https://hoiquan.dpdns.org/VTVGo/?sctv4
-#EXTINF:-1 group-title="Truyền Hình" tvg-logo="https://vtvgo-assets.vtvdigital.vn/assets/images/v2/channel/20260412/2026041216/i4XbsD5Jz2-SCTV6-THUMBNAIL-KENHVTVgo-500x281.webp",SCTV6 HD
+#EXTINF:-1 group-title="SCTV" tvg-logo="https://vtvgo-assets.vtvdigital.vn/assets/images/v2/channel/20260412/2026041216/i4XbsD5Jz2-SCTV6-THUMBNAIL-KENHVTVgo-500x281.webp",SCTV6 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 10.0) AppleWebKit/537.36 (KHTML, like Gecko) 130.0.6723.116/10.0 TV Safari/537.36
 https://live.fptplay53.net/epzhd2/film360_vhls.smil/chunklist.m3u8
-#EXTINF:-1 group-title="Truyền Hình" tvg-logo="https://vtvgo-assets.vtvdigital.vn/assets/images/v2/channel/20260412/2026041216/lWaF6Ywcok-SCTV7-THUMBNAIL-KENHVTVgo-500x281.webp",SCTV7 HD
+#EXTINF:-1 group-title="SCTV" tvg-logo="https://vtvgo-assets.vtvdigital.vn/assets/images/v2/channel/20260412/2026041216/lWaF6Ywcok-SCTV7-THUMBNAIL-KENHVTVgo-500x281.webp",SCTV7 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 10.0) AppleWebKit/537.36 (KHTML, like Gecko) 130.0.6723.116/10.0 TV Safari/537.36
 https://hoiquan.dpdns.org/VTVGo/?sctv7
-#EXTINF:-1 group-title="Truyền Hình" tvg-logo="https://vtvgo-assets.vtvdigital.vn/assets/images/v2/channel/20260412/2026041216/JMFf1UV9kQ-SCTV8-THUMBNAIL-KENHVTVgo-500x281.webp",SCTV8 HD
+#EXTINF:-1 group-title="SCTV" tvg-logo="https://vtvgo-assets.vtvdigital.vn/assets/images/v2/channel/20260412/2026041216/JMFf1UV9kQ-SCTV8-THUMBNAIL-KENHVTVgo-500x281.webp",SCTV8 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 10.0) AppleWebKit/537.36 (KHTML, like Gecko) 130.0.6723.116/10.0 TV Safari/537.36
 https://hoiquan.dpdns.org/VTVGo/?sctv8
-#EXTINF:-1 group-title="Truyền Hình" tvg-logo="https://vtvgo-assets.vtvdigital.vn/assets/images/v2/channel/20260429/2026042910/hS9Yk79AOa-SCTV9-THUMBNAIL-KENHVTVgo-500x281.webp",SCTV9 HD
+#EXTINF:-1 group-title="SCTV" tvg-logo="https://vtvgo-assets.vtvdigital.vn/assets/images/v2/channel/20260429/2026042910/hS9Yk79AOa-SCTV9-THUMBNAIL-KENHVTVgo-500x281.webp",SCTV9 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 10.0) AppleWebKit/537.36 (KHTML, like Gecko) 130.0.6723.116/10.0 TV Safari/537.36
 https://hoiquan.dpdns.org/VTVGo/?sctv9
-#EXTINF:-1 group-title="Truyền Hình" tvg-logo="https://vtvgo-assets.vtvdigital.vn/assets/images/v2/channel/20260429/2026042910/ZU4dxYBmZR-SCTV11-THUMBNAIL-KENHVTVgo-500x281.webp",SCTV11 HD
+#EXTINF:-1 group-title="SCTV" tvg-logo="https://vtvgo-assets.vtvdigital.vn/assets/images/v2/channel/20260429/2026042910/ZU4dxYBmZR-SCTV11-THUMBNAIL-KENHVTVgo-500x281.webp",SCTV11 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 10.0) AppleWebKit/537.36 (KHTML, like Gecko) 130.0.6723.116/10.0 TV Safari/537.36
 https://hoiquan.dpdns.org/VTVGo/?sctv11
-#EXTINF:-1 group-title="Truyền Hình" tvg-logo="https://vtvgo-assets.vtvdigital.vn/assets/images/v2/channel/20260429/2026042910/jvwugjjJXd-SCTV12-THUMBNAIL-KENHVTVgo-500x281.webp",SCTV12 HD
+#EXTINF:-1 group-title="SCTV" tvg-logo="https://vtvgo-assets.vtvdigital.vn/assets/images/v2/channel/20260429/2026042910/jvwugjjJXd-SCTV12-THUMBNAIL-KENHVTVgo-500x281.webp",SCTV12 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 10.0) AppleWebKit/537.36 (KHTML, like Gecko) 130.0.6723.116/10.0 TV Safari/537.36
 https://hoiquan.dpdns.org/VTVGo/?sctv12
-#EXTINF:-1 group-title="Truyền Hình" tvg-logo="https://vtvgo-assets.vtvdigital.vn/assets/images/v2/channel/20260429/2026042910/5JQ9ntul7R-SCTV13-THUMBNAIL-KENHVTVgo-500x281.webp",SCTV13 HD
+#EXTINF:-1 group-title="SCTV" tvg-logo="https://vtvgo-assets.vtvdigital.vn/assets/images/v2/channel/20260429/2026042910/5JQ9ntul7R-SCTV13-THUMBNAIL-KENHVTVgo-500x281.webp",SCTV13 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 10.0) AppleWebKit/537.36 (KHTML, like Gecko) 130.0.6723.116/10.0 TV Safari/537.36
 https://hoiquan.dpdns.org/VTVGo/?sctv13
-#EXTINF:-1 group-title="Truyền Hình" tvg-logo="https://vtvgo-assets.vtvdigital.vn/assets/images/v2/channel/20260429/2026042910/AfkdBJUwct-SCTV14-THUMBNAIL-KENHVTVgo-500x281.webp",SCTV14 HD
+#EXTINF:-1 group-title="SCTV" tvg-logo="https://vtvgo-assets.vtvdigital.vn/assets/images/v2/channel/20260429/2026042910/AfkdBJUwct-SCTV14-THUMBNAIL-KENHVTVgo-500x281.webp",SCTV14 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 10.0) AppleWebKit/537.36 (KHTML, like Gecko) 130.0.6723.116/10.0 TV Safari/537.36
 https://hoiquan.dpdns.org/VTVGo/?sctv14
-#EXTINF:-1 group-title="Truyền Hình" tvg-logo="https://vtvgo-assets.vtvdigital.vn/assets/images/v2/channel/20260429/2026042910/WvzLlFBsMH-SCTV16-THUMBNAIL-KENHVTVgo-500x281.webp",SCTV16 HD
+#EXTINF:-1 group-title="SCTV" tvg-logo="https://vtvgo-assets.vtvdigital.vn/assets/images/v2/channel/20260429/2026042910/WvzLlFBsMH-SCTV16-THUMBNAIL-KENHVTVgo-500x281.webp",SCTV16 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 10.0) AppleWebKit/537.36 (KHTML, like Gecko) 130.0.6723.116/10.0 TV Safari/537.36
 https://hoiquan.dpdns.org/VTVGo/?sctv16
-#EXTINF:-1 group-title="Truyền Hình" tvg-logo="https://vtvgo-assets.vtvdigital.vn/assets/images/v2/channel/20260429/2026042910/xVC1NHJ6Fv-SCTV18-THUMBNAIL-KENHVTVgo-500x281.webp",SCTV18 HD
+#EXTINF:-1 group-title="SCTV" tvg-logo="https://vtvgo-assets.vtvdigital.vn/assets/images/v2/channel/20260429/2026042910/xVC1NHJ6Fv-SCTV18-THUMBNAIL-KENHVTVgo-500x281.webp",SCTV18 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 10.0) AppleWebKit/537.36 (KHTML, like Gecko) 130.0.6723.116/10.0 TV Safari/537.36
 https://hoiquan.dpdns.org/VTVGo/?sctv18
-#EXTINF:-1 group-title="Truyền Hình" tvg-logo="https://vtvgo-assets.vtvdigital.vn/assets/images/v2/channel/20260429/2026042910/34lYColhi0-SCTV19-THUMBNAIL-KENHVTVgo-500x281.webp",SCTV19 HD
+#EXTINF:-1 group-title="SCTV" tvg-logo="https://vtvgo-assets.vtvdigital.vn/assets/images/v2/channel/20260429/2026042910/34lYColhi0-SCTV19-THUMBNAIL-KENHVTVgo-500x281.webp",SCTV19 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 10.0) AppleWebKit/537.36 (KHTML, like Gecko) 130.0.6723.116/10.0 TV Safari/537.36
 https://hoiquan.dpdns.org/VTVGo/?sctv19
-#EXTINF:-1 group-title="Truyền Hình" tvg-logo="https://vtvgo-assets.vtvdigital.vn/assets/images/v2/channel/20260429/2026042910/Sk6EHvQM6l-SCTV20-THUMBNAIL-KENHVTVgo-500x281.webp",SCTV20 HD
+#EXTINF:-1 group-title="SCTV" tvg-logo="https://vtvgo-assets.vtvdigital.vn/assets/images/v2/channel/20260429/2026042910/Sk6EHvQM6l-SCTV20-THUMBNAIL-KENHVTVgo-500x281.webp",SCTV20 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 10.0) AppleWebKit/537.36 (KHTML, like Gecko) 130.0.6723.116/10.0 TV Safari/537.36
 https://hoiquan.dpdns.org/VTVGo/?sctv20
-#EXTINF:-1 group-title="Truyền Hình" tvg-logo="https://vtvgo-assets.vtvdigital.vn/assets/images/v2/channel/20260429/2026042910/5gC45n7qsC-SCTV21-THUMBNAIL-KENHVTVgo-500x281.webp",SCTV21 HD
+#EXTINF:-1 group-title="SCTV" tvg-logo="https://vtvgo-assets.vtvdigital.vn/assets/images/v2/channel/20260429/2026042910/5gC45n7qsC-SCTV21-THUMBNAIL-KENHVTVgo-500x281.webp",SCTV21 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 10.0) AppleWebKit/537.36 (KHTML, like Gecko) 130.0.6723.116/10.0 TV Safari/537.36
 https://hoiquan.dpdns.org/VTVGo/?sctv21
-#EXTINF:-1 group-title="Truyền Hình" tvg-logo="https://vtvgo-assets.vtvdigital.vn/assets/images/v2/channel/20260501/2026050108/2H5DWlkK1N-SCTVPhimTongHop-THUMBNAIL-KENHVTVgo-500x281.webp",SCTV HD Phim Tổng Hợp
+#EXTINF:-1 group-title="SCTV" tvg-logo="https://vtvgo-assets.vtvdigital.vn/assets/images/v2/channel/20260501/2026050108/2H5DWlkK1N-SCTVPhimTongHop-THUMBNAIL-KENHVTVgo-500x281.webp",SCTV HD Phim Tổng Hợp
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 10.0) AppleWebKit/537.36 (KHTML, like Gecko) 130.0.6723.116/10.0 TV Safari/537.36
 https://hoiquan.dpdns.org/VTVGo/?sctvphim
-
 
 
 
