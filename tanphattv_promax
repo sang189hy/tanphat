@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="https://epg.io.vn/epgu.xml" m3uautoload=1
 
-#-----------------------VTV-------------------------------#
+#-----------------------KÊNH VTV-------------------------------#
 #EXTINF:-1 group-title="VTV" tvg-logo="https://i.imgur.com/nfkmvAY.png",VTV1
 https://live.fptplay53.net/live/media/vtv1/live247-hls-avc/vtv1.m3u8
 #EXTINF:-1 group-title="VTV" tvg-logo="https://i.imgur.com/BVwi3K3.png",VTV2
@@ -28,7 +28,7 @@ https://live.fptplay53.net/live/media/vtv5tnb/live-hls-avc/vtv5tnb-avc1_4000000=
 #EXTINF:-1 group-title="VTV" tvg-logo="https://i.imgur.com/R8c2swd.png",VTV5 Tây Nguyên
 https://vips-livecdn.fptplay.net/live/media/vtv5tn/live-hls-avc/vtv5tn-avc1_4000000=10000-mp4a_131600=20000.m3u8
 
-#-----------------------HTV-------------------------------#
+#-----------------------KÊNH HTV-------------------------------#
 
 #EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/htv1.png" group-title="HTV",HTV1
 https://live.fptplay53.net/epzhd1/htv1_hls.smil/chunklist.m3u8
