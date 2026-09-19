@@ -11,17 +11,17 @@ https://vips-livecdn.fptplay.net/live/media/vtv3/live247-hls-avc/vtv3-avc1_56000
 https://live.fptplay53.net/live/media/vtv4/live247-hls-avc/vtv4-avc1_5600000=10000-mp4a_131600=20000.m3u8
 #EXTINF:-1 group-title="KÊNH VTV" tvg-logo="https://i.imgur.com/7qPKNFU.png",VTV5
 https://live.fptplay53.net/live/media/vtv5/live247-hls-avc/vtv5-avc1_5600000=10000-mp4a_131600=20000.m3u8
-#EXTINF:-1 tvg-id="vtv6hd" group-title="KÊNH VTV" tvg-logo="https://raw.githubusercontent.com/vietng228/m3u/main/logos/vtv6hd.png",VTV6
+#EXTINF:-1 tvg-id="vtv6hd" group-title="KÊNH VTV" tvg-logo="https://raw.githubusercontent.com/boxtanphat/icon/refs/heads/main/vtv6.webp",VTV6
 https://vips-livecdn.fptplay.net/live/media/vtv6/live247-hls-avc/vtv6-avc1_5600000=10000-mp4a_131600=20000.m3u8
-#EXTINF:-1 group-title="KÊNH VTV" tvg-logo="https://raw.githubusercontent.com/vietng228/m3u/main/logos/vtv7hd.png",VTV7
+#EXTINF:-1 group-title="KÊNH VTV" tvg-logo="https://raw.githubusercontent.com/boxtanphat/icon/refs/heads/main/vtv7.webp",VTV7
 https://vips-livecdn.fptplay.net/live/media/vtv7/live247-hls-avc/vtv7-avc1_5600000=10000-mp4a_131600=20000.m3u8
 #EXTINF:-1 group-title="KÊNH VTV" tvg-logo="https://i.imgur.com/lpcltL9.png",VTV8
 https://live.fptplay53.net/fnxhd1/vtv8hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="KÊNH VTV" tvg-logo="https://i.imgur.com/Ex1VkGQ.png",VTV9
 https://vips-livecdn.fptplay.net/live/media/vtv9/live247-hls-avc/vtv9-avc1_5600000=10000-mp4a_131600=20000.m3u8
-#EXTINF:-1 group-title="KÊNH VTV" tvg-logo="https://raw.githubusercontent.com/vietng228/m3u/main/logos/vtv10.png",VTV10
+#EXTINF:-1 group-title="KÊNH VTV" tvg-logo="https://raw.githubusercontent.com/boxtanphat/icon/refs/heads/main/vtv10.webp",VTV10
 https://vips-livecdn.fptplay.net/live/media/vtv10/live247-hls-avc/vtv10-avc1_5600000=10000-mp4a_131600=20000.m3u8
-#EXTINF:-1 tvg-id="vietnamtoday" group-title="KÊNH VTV" tvg-logo="https://raw.githubusercontent.com/vietng228/m3u/main/logos/vietnamtoday.png",VietNam Today
+#EXTINF:-1 tvg-id="vietnamtoday" group-title="KÊNH VTV" tvg-logo="https://raw.githubusercontent.com/boxtanphat/icon/refs/heads/main/vietnam-today.webp",VietNam Today
 https://live.fptplay53.net/fnxhd1/vntoday_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="KÊNH VTV" tvg-logo="https://i.imgur.com/mIUWkDx.png",VTV5 Tây Nam Bộ
 https://live.fptplay53.net/live/media/vtv5tnb/live-hls-avc/vtv5tnb-avc1_4000000=10000-mp4a_131600=20000.m3u8
