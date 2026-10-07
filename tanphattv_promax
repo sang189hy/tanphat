@@ -31,7 +31,7 @@ https://vips-livecdn.fptplay.net/live/media/vtv5tn/live-hls-avc/vtv5tn-avc1_4000
 #-----------------------KÊNH HTV-------------------------------#
 
 #EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/htv1.png" group-title="KÊNH HTV",HTV1
-https://freem3u.xyz/r/tbotztvg
+https://gitlab.com/nguyenthiquynhnga1902/app/-/raw/main/441.m3u8
 #EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/htv2.png" group-title="KÊNH HTV",HTV2
 https://freem3u.xyz/api/live/play.m3u8?vid=191
 #EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/htv3.png" group-title="KÊNH HTV",HTV3
