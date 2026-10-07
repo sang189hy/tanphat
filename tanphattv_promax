@@ -10,7 +10,7 @@ https://vips-livecdn.fptplay.net/live/media/vtv3/live247-hls-avc/vtv3-avc1_56000
 #EXTINF:-1 group-title="KÊNH VTV" tvg-logo="https://i.imgur.com/9zVTtsA.png",VTV4 
 https://vips-livecdn.fptplay.net/live/media/vtv4/live247-hls-avc/vtv4-avc1_5600000=10000-mp4a_131600=20000.m3u8
 #EXTINF:-1 group-title="KÊNH VTV" tvg-logo="https://i.imgur.com/7qPKNFU.png",VTV5
-https://live.fptplay53.net/live/media/vtv5/live247-hls-avc/vtv5-avc1_5600000=10000-mp4a_131600=20000.m3u8
+https://vips-livecdn.fptplay.net/live/media/vtv5/live247-hls-avc/vtv5-avc1_5600000=10000-mp4a_131600=20000.m3u8
 #EXTINF:-1 tvg-id="vtv6hd" group-title="KÊNH VTV" tvg-logo="https://gitlab.com/nguyenthiquynhnga1902/app/-/raw/main/icon/vtv6.webp",VTV6
 https://vips-livecdn.fptplay.net/live/media/vtv6/live247-hls-avc/vtv6-avc1_5600000=10000-mp4a_131600=20000.m3u8
 #EXTINF:-1 group-title="KÊNH VTV" tvg-logo="https://gitlab.com/nguyenthiquynhnga1902/app/-/raw/main/icon/vtv7.webp",VTV7
@@ -22,9 +22,9 @@ https://vips-livecdn.fptplay.net/live/media/vtv9/live247-hls-avc/vtv9-avc1_56000
 #EXTINF:-1 group-title="KÊNH VTV" tvg-logo="https://gitlab.com/nguyenthiquynhnga1902/app/-/raw/main/icon/vtv10.webp",VTV10
 https://vips-livecdn.fptplay.net/live/media/vtv10/live247-hls-avc/vtv10-avc1_5600000=10000-mp4a_131600=20000.m3u8
 #EXTINF:-1 tvg-id="vietnamtoday" group-title="KÊNH VTV" tvg-logo="https://gitlab.com/nguyenthiquynhnga1902/app/-/raw/main/icon/vietnam-today.webp",VietNam Today
-https://live.fptplay53.net/fnxhd1/vntoday_vhls.smil/chunklist_b5000000.m3u8
+https://vips-livecdn.fptplay.net/live/media/vietnamtoday/live-hls-avc/vietnamtoday-avc1_4000000=10000-mp4a_131600=20000.m3u8\
 #EXTINF:-1 group-title="KÊNH VTV" tvg-logo="https://i.imgur.com/mIUWkDx.png",VTV5 Tây Nam Bộ
-https://live.fptplay53.net/live/media/vtv5tnb/live-hls-avc/vtv5tnb-avc1_4000000=10000-mp4a_131600=20000.m3u8
+https://vips-livecdn.fptplay.net/live/media/vtv5tnb/live-hls-avc/vtv5tnb-avc1_4000000=10000-mp4a_131600=20000.m3u8
 #EXTINF:-1 group-title="KÊNH VTV" tvg-logo="https://raw.githubusercontent.com/vietng228/m3u/main/logos/vtv5hdtn.png",VTV5 Tây Nguyên
 https://vips-livecdn.fptplay.net/live/media/vtv5tn/live-hls-avc/vtv5tn-avc1_4000000=10000-mp4a_131600=20000.m3u8
 
@@ -33,7 +33,7 @@ https://vips-livecdn.fptplay.net/live/media/vtv5tn/live-hls-avc/vtv5tn-avc1_4000
 #EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/htv1.png" group-title="KÊNH HTV",HTV1
 https://live.fptplay53.net/epzhd1/htv1_hls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/htv2.png" group-title="KÊNH HTV",HTV2
-https://live.fptplay53.net/epzhd1/htv2hd_vhls.smil/chunklist.m3u8
+https://freem3u.xyz/api/live/play.m3u8?vid=191
 #EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/htv3.png" group-title="KÊNH HTV",HTV3
 https://live.fptplay53.net/epzhd1/htv3_hls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/htv4.png" group-title="KÊNH HTV",HTV4
