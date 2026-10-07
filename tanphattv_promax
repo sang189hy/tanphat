@@ -31,19 +31,19 @@ https://vips-livecdn.fptplay.net/live/media/vtv5tn/live-hls-avc/vtv5tn-avc1_4000
 #-----------------------KÊNH HTV-------------------------------#
 
 #EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/htv1.png" group-title="KÊNH HTV",HTV1
-https://live.fptplay53.net/epzhd1/htv3_hls.smil/chunklist.m3u8
+https://freem3u.xyz/api/live/play.m3u8?vid=190
 #EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/htv2.png" group-title="KÊNH HTV",HTV2
 https://freem3u.xyz/api/live/play.m3u8?vid=191
 #EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/htv3.png" group-title="KÊNH HTV",HTV3
-https://live.fptplay53.net/epzhd1/htv3_hls.smil/chunklist.m3u8
+https://freem3u.xyz/api/live/play.m3u8?vid=192
 #EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/htv4.png" group-title="KÊNH HTV",HTV4
 https://live.fptplay53.net/epzhd1/htv4_hls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="htv5" group-title="KÊNH HTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/HTV5_Bchannel.png", HTV5 - B Channel
 https://live.fptplay53.net/fnxsd1/btv9_hls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/htv7.png" group-title="KÊNH HTV",HTV7
-https://live.fptplay53.net/epzhd1/htv7hd_vhls.smil/chunklist_b5000000.m3u8
+https://freem3u.xyz/api/live/play.m3u8?vid=193
 #EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/htv9.png" group-title="KÊNH HTV",HTV9
-https://live.fptplay53.net/live/media/htv9/live247-hls-avc/index.m3u8
+https://freem3u.xyz/api/live/play.m3u8?vid=194
 #EXTINF:-1 tvg-logo="https://img-ali1.tv360.vn/image1/2023/04/03/16/1680514594557/ab2557f0b015_640_360.png" group-title="KÊNH HTV",HTV Thể Thao
 https://live.fptplay53.net/epzhd1/htvcthethao_vhls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://img-ali1.tv360.vn/image1/2020_09_23/1600823449894/0834e6a36f71_640_360.png" group-title="KÊNH HTV",HTVC Ca Nhạc
