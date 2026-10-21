@@ -71,7 +71,7 @@ https://freem3u.xyz/api/live/play.m3u8?vid=219
 #EXTINF:-1 group-title="Kênh Vĩnh Long" tvg-id="THVL4" tvg-logo="https://freem3u.xyz/static/images/diaphuong/vinhlong4.png",THVL4
 https://freem3u.xyz/api/live/play.m3u8?vid=220
 #EXTINF:-1 group-title="Kênh Vĩnh Long" tvg-id="THVL5" tvg-logo="https://freem3u.xyz/static/images/diaphuong/vinhlong5.png",THVL5
-https://dethich.pw/thvl5/index.m3u8
+https://freem3u.xyz/api/live/play.m3u8?vid=91
 
 #-----------------------ĐỊA PHƯƠNG-------------------------------#
 
@@ -166,7 +166,7 @@ https://live.mediatech.vn/live/28595222e707a364251b8724717894baa46/playlist.m3u8
 #EXTINF:-1 group-title="Địa Phương"tvg-logo="https://i.imgur.com/UwTCbZ5.png",Thanh Hóa
 https://d1.dhcn.vn/hls/bth_th/master.m3u8?token=4f_AfkdhGC13PQmu8Q2_EQ
 #EXTINF:-1 group-title="Địa Phương"tvg-logo="https://i.imgur.com/qPZeGPa.png",Tuyên Quang
-https://live.fptplay53.net/fnxsd1/tuyenquang_hls.smil/chunklist.m3u8
+https://streaming.tuyenquangtv.vn/channel/tuyenquang/playlist.m3u8
 
 #-----------------------Kênh SCTV-------------------------------#
 
