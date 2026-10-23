@@ -12,7 +12,7 @@ https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv4/master.m3u8
 #EXTINF:-1 group-title="KÊNH VTV" tvg-logo="https://i.imgur.com/7qPKNFU.png",VTV5
 https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv5/master.m3u8
 #EXTINF:-1 tvg-id="vtv6hd" group-title="KÊNH VTV" tvg-logo="https://gitlab.com/nguyenthiquynhnga1902/app/-/raw/main/icon/vtv6.webp",VTV6
-https://dethich.pw/vtv6/index.m3u8
+https://vtvgolivepre-vtv02.vtvdigital.vn/hls/vtv/live/vtv6__vtv720p-h264/index.m3u8
 #EXTINF:-1 group-title="KÊNH VTV" tvg-logo="https://gitlab.com/nguyenthiquynhnga1902/app/-/raw/main/icon/vtv7.webp",VTV7
 https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv7/master.m3u8
 #EXTINF:-1 group-title="KÊNH VTV" tvg-logo="https://i.imgur.com/lpcltL9.png",VTV8
@@ -45,7 +45,7 @@ https://freem3u.xyz/api/live/play.m3u8?vid=193
 #EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/htv9.png" group-title="KÊNH HTV",HTV9
 https://freem3u.xyz/api/live/play.m3u8?vid=194
 #EXTINF:-1 tvg-logo="https://img-ali1.tv360.vn/image1/2023/04/03/16/1680514594557/ab2557f0b015_640_360.png" group-title="KÊNH HTV",HTV Thể Thao
-https://dethich.pw/htvthethao/index.m3u8
+https://1011154949.vnns.net/CDN-FPT02/HTV-THETHAO-HD-1080p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://img-ali1.tv360.vn/image1/2020_09_23/1600823449894/0834e6a36f71_640_360.png" group-title="KÊNH HTV",HTVC Ca Nhạc
 https://dethich.pw/htvccanhac/index.m3u8
 #EXTINF:-1 tvg-logo="https://img-ali1.tv360.vn/image1/2020/12/25/08/1608860643587/bb01290ccde1_640_360.png" group-title="KÊNH HTV",HTVC Du Lịch và Cuộc Sống
