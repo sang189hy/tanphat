@@ -398,11 +398,6 @@ https://livevlisctcdnw.seenow.vn/livesnv2/WO/manifest.mpd
 ##KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
 https://livevlisctcdnw.seenow.vn/livesnv2/MUSICBOX/manifest.mpd
 
-#EXTINF:-1 tvg-id="davincihd" group-title="Quốc tế" tvg-logo="https://i.postimg.cc/sfkTP1qX/davinci.png", Da Vinci HD
-https://live.fptplay53.net/fnxhd2/davincihd_vhls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="historyhd" group-title="Quốc tế" tvg-logo="https://img.vtvprime.vn/bx7_O8VnoPiHJ9mA_aTHMuMu9NngsDvN14MIdNzfAdk/rs:fit:836:468/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvZTYwZjk3MmYtYjMzYy00ZWQ2LTllODMtMjU0ODdmNWVlZDA0LnBuZw==.png", History HD
-https://sgclient.duckdns.org/source/tv360.m3u8?id=9856
-
 #EXTINF:-1 tvg-id="animalhd" group-title="Quốc tế" tvg-logo="https://i.postimg.cc/tCHWwG9R/143.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/animalplanet_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", Animal Planet
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -423,12 +418,6 @@ https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/dscasia.smil/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"vqWgcVfgxNF7Eas5lRf5Ug","kid":"60Fg6lU6Mh2JlVPk55b+wg"}],"type":"temporary"}
 https://s7770.cdn.mytvnet.vn/pkg20/live_dzones/dsc.smil/manifest.mpd
-
-#EXTINF:-1 tvg-id="outdoor" group-title="Quốc tế" tvg-logo="https://img-ali1.tv360.vn/image1/2020/11/12/10/1605151414697/e4570232b05d_640_360.png",Outdoor Channel
-#EXTVLCOPT:http-user-agent=VThanhTivi
-https://live.fptplay53.net/epzhd2/outdoorfhd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-logo="https://img-ali1.tv360.vn/image1/2025/01/24/22/1737733016558/b6a8f1955817_640_360.png" group-title="Quốc tế",KIX TV
-https://live.fptplay53.net/fnxhd2/kixhd_vhls.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="dmax" group-title="Quốc tế" tvg-logo="https://i.imgur.com/vHmt91V.png",DMAX
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
@@ -522,40 +511,8 @@ https://english-livebkali.cgtn.com/live/encgtn_0.m3u8
 #EXTINF:-1 tvg-id="CGTNDocumentary" group-title="Quốc tế" tvg-logo="https://i.ytimg.com/vi/QbB9p0LDAyE/maxresdefault.jpg", CGTN Documentary
 https://english-livebkali.cgtn.com/live/doccgtn_0.m3u8
 
-#EXTINF:-1 tvg-id="abcaustralia" group-title="Quốc tế" tvg-logo="https://img-zlr1.tv360.vn/image1/2021/09/30/21/1633012334655/9f82fec7aa58_640_360.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/australiaplus_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", ABC Australia
-#EXTVLCOPT:http-user-agent=VThanhTivi
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9a09a73ec1dc348584e2f130e27da667:06f8d1a6feaffbdab92adf347e7b469c
-https://s935.cdn.mytvnet.vn/pkg20/live_dzones/aplus.smil/manifest.mpd
-
-#EXTINF:-1 tvg-id="arirang" group-title="Quốc tế" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600823492603/d4586db1b09a_480_270.png", Arirang
-https://live.fptplay53.net/fnxhd1/airanghd_vhls.smil/chunklist_b5000000.m3u8
-
 #EXTINF:-1 tvg-id="france24eng" group-title="Quốc tế" tvg-logo="https://i.postimg.cc/1zzppZKc/France-24-logo-(2013)-svg.png", France 24
 https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_5000.m3u8
-
-#EXTINF:-1 tvg-id="cnbc" group-title="Quốc tế" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/03/29/23/1774802901669/9a839f2886f1_480_270.png", CNBC
-https://live.fptplay53.net/fnxhd1/cnbchd_vhls.smil/chunklist_b5000000.m3u8
-
-#EXTINF:-1 tvg-id="NHKWorld" group-title="Quốc tế" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600823240223/dc739d55a0f5_480_270.png", NHK World
-https://live.fptplay53.net/fnxhd2/nhkworld_vhls.smil/chunklist_b5000000.m3u8 
-
-#EXTINF:-1 tvg-id="cna" group-title="Quốc tế" tvg-logo="https://freem3u.xyz/static/images/global/cna.png", Channel News Asia
-https://live.fptplay53.net/fnxhd2/newsasia_hls.smil/chunklist_b2500000.m3u8
-
-#EXTINF:-1 tvg-id="hgtv" group-title="Quốc tế" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600822040158/9eca53663279_480_270.png", HGTV
-https://liveh34.vtvprime.vn/hls/HGTV/03.m3u8
-
-#EXTINF:-1 tvg-id="TV5MONDE" tvg-logo="https://img-ali1.tv360.vn/image1/2024/05/03/23/1714753734110/8e356cdac7e9_640_360.png" group-title="Quốc tế",TV5MONDE
-https://live.fptplay53.net/fnxhd2/tv5_hls.smil/chunklist_b2500000.m3u8
-
-#EXTINF:-1 tvg-id="kbsworld" group-title="Quốc tế" tvg-logo="https://i.postimg.cc/PJHJQWjj/KBS-World-(2009)-svg.png", KBS World
-https://live.fptplay53.net/epzhd2/kbs_vhls.smil/chunklist_b5000000.m3u8
-
-#EXTINF:-1 tvg-id="dw" group-title="Quốc tế" tvg-logo="https://img-zlr1.tv360.vn/image1/2022/05/10/15/1652170991466/3334568ab702_480_270.png", DW - Deutsche Welle
-https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 
 #EXTINF:-1 tvg-id="tlchd" group-title="Quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/1280px-TLC_Logo.svg.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/travelliving_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", Travel Living Channel
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
